@@ -1,0 +1,55 @@
+helloPanSys
+checkCon 8438
+defMethod OSGrid
+gridDef 16C
+levelsDef 4
+startPos 3,7
+doLevel 1
+movTo 4,6
+movTo 5,5
+movTo 6,4
+movTo 7,3
+movTo 8,2
+movTo 9,1
+movTo 10,0
+endLevel
+startPos 3,8
+doLevel 2
+movTo 3,9
+movTo 3,10
+movTo 4,11
+movTo 5,12
+movTo 6,11
+movTo 7,10
+movTo 7,9
+movTo 7,8
+movTo 7,7
+movTo 7,6
+movTo 7,5
+movTo 7,4
+movTo 8,3
+movTo 9,2
+movTo 10,1
+movTo 11,0
+endLevel
+startPos 4,10
+doLevel 3
+movTo 4,9
+movTo 4,8
+movTo 4,7
+movTo 5,6
+movTo 6,5
+movTo 6,6
+movTo 6,7
+movTo 6,8
+movTo 6,9
+movTo 6,10
+movTo 5,11
+endLevel
+startPos 5,10
+doLevel 4
+movTo 5,9
+movTo 5,8
+movTo 5,7
+endLevel
+endPrint
